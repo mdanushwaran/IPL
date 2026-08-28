@@ -34,3 +34,8 @@ Distribution of Runs in Batting First
 <img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/116e7bbd-7abe-4395-88ab-95c07fa7bf02" />
 
 ____________________
+
+Distribution of Runs in Second Batting
+<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/91a952db-d2c4-4951-9728-c7544653f0e0" />
+
+____________________
