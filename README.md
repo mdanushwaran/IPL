@@ -44,3 +44,10 @@ Top 3 Teams
 <img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/18e350ba-c696-4ba3-9c4f-5c8f8b9fb290" />
 
 ____________________
+
+wickets in each matches
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/c7304258-9801-43a8-bfa0-0cdca8e828b5" />
+
+_____________________
+
+End
