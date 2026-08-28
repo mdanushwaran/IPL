@@ -24,3 +24,8 @@ winning & losses in Dataframe
 <img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/2d2aefe4-d8fe-4b62-b56c-ce741a73e06d" />
 
 _____________________
+
+using  Bar plot 
+<img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/d27e2d16-5676-486b-9433-fa525682df21" />
+
+_____________________
