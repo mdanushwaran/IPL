@@ -19,3 +19,8 @@ winning & losses
 <img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/4cc79616-17f4-44d1-b5c2-c47f75067695" />
 
 _____________________
+
+winning & losses in Dataframe 
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/2d2aefe4-d8fe-4b62-b56c-ce741a73e06d" />
+
+_____________________
