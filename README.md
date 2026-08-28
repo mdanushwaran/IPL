@@ -14,3 +14,8 @@ IPl Dataset.
 <img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/08f4caf8-c23d-46c9-b3e8-874125cb945b" />
 
 _____________________
+
+winning & losses
+<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/4cc79616-17f4-44d1-b5c2-c47f75067695" />
+
+_____________________
