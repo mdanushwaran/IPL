@@ -8,4 +8,9 @@ seaborn.
 <img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/3877ee12-0927-4a76-b956-fc7ec05119da" />
 <img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/ffe1ad8a-d992-46b5-9298-a967b46e3ab4" />
 
+_____________________
 
+IPl Dataset.
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/08f4caf8-c23d-46c9-b3e8-874125cb945b" />
+
+_____________________
