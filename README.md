@@ -29,3 +29,8 @@ using  Bar plot
 <img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/d27e2d16-5676-486b-9433-fa525682df21" />
 
 _____________________
+
+Distribution of Runs in Batting First
+<img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/116e7bbd-7abe-4395-88ab-95c07fa7bf02" />
+
+____________________
