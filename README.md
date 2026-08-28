@@ -39,3 +39,8 @@ Distribution of Runs in Second Batting
 <img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/91a952db-d2c4-4951-9728-c7544653f0e0" />
 
 ____________________
+
+Top 3 Teams
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/18e350ba-c696-4ba3-9c4f-5c8f8b9fb290" />
+
+____________________
